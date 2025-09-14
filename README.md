@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetech-shivam&label=Profile%20views&color=0e75b6&style=flat" alt="codetech-shivam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/codetech-shivam](https://github.com/codetech-shivam)
+- 👨‍💻 All of my projects are available at [https://github.com/atul8077]
 
 - 💬 Ask me about **java , data structures and algorithms**
 
